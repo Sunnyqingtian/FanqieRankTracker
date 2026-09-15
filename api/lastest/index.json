@@ -1,17 +1,17 @@
 {
-  "date": "2026-09-14",
-  "prev_date": "2026-09-13",
+  "date": "2026-09-15",
+  "prev_date": "2026-09-14",
   "types": [
     {
       "type": "all",
       "url": "api/lastest/all.json",
       "category_count": 18,
-      "book_count": 360
+      "book_count": 329
     },
     {
       "type": "古风世情",
       "url": "api/lastest/%E5%8F%A4%E9%A3%8E%E4%B8%96%E6%83%85.json",
-      "book_count": 20
+      "book_count": 19
     },
     {
       "type": "科幻末世",
@@ -26,7 +26,7 @@
     {
       "type": "女频衍生",
       "url": "api/lastest/%E5%A5%B3%E9%A2%91%E8%A1%8D%E7%94%9F.json",
-      "book_count": 20
+      "book_count": 0
     },
     {
       "type": "玄幻言情",
@@ -36,7 +36,7 @@
     {
       "type": "种田",
       "url": "api/lastest/%E7%A7%8D%E7%94%B0.json",
-      "book_count": 20
+      "book_count": 10
     },
     {
       "type": "年代",
